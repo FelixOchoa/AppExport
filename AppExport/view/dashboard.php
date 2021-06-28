@@ -1,0 +1,9 @@
+<?php
+include('sidebar.php');
+?>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti, hic vero rem officia recusandae rerum dolorum similique voluptates fugiat dolores molestias repellendus soluta dolore ipsam amet maxime voluptate error repellat cum fuga unde labore voluptatibus? Quidem voluptas, dolorum quod quasi doloremque tempora vel soluta velit perspiciatis, tempore quos consequuntur, natus amet modi inventore? Ex vel ratione adipisci eum ipsum culpa vitae voluptate quisquam explicabo, veniam facilis optio quo perspiciatis excepturi ut error animi delectus? Libero maxime optio cum repellendus veritatis officiis quisquam sapiente molestiae eveniet iusto! Cupiditate incidunt unde perferendis minus? Alias, repudiandae sapiente exercitationem impedit laudantium odio dolores libero? Iure voluptas tempora, necessitatibus doloribus molestias facere, atque laboriosam expedita molestiae officia maiores, reiciendis aliquam? Ratione tempore pariatur aliquid sunt explicabo ab deserunt cum facere? Labore porro, ut voluptatum dolorum alias vitae aut consequatur nam exercitationem at voluptatibus! Ad nesciunt, aperiam unde possimus id at quam enim, odio quo iusto exercitationem a nam earum dolore, vitae rerum! Voluptatibus laudantium officia nulla soluta debitis. Reprehenderit architecto voluptate totam, cumque modi vitae, quisquam cum laudantium necessitatibus asperiores perferendis quasi soluta nemo temporibus debitis non beatae tempore ullam rerum nisi quia nulla voluptates commodi laborum. Laborum at quas tenetur iusto fugit nobis.</p>
+
+<?php
+include('footer.php')
+?>
